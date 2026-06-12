@@ -1,16 +1,32 @@
-## Hi there 👋
+# Yuyutsu Lamsal
 
-<!--
-**Lamsalyusu/Lamsalyusu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML Enthusiast | Computer Vision · LLMs · Agentic AI  
+Final-year CS @ Herald College Kathmandu (University of Wolverhampton)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+Python · TensorFlow · PyTorch · Scikit-learn · LlamaIndex  
+smolagents · HuggingFace · Django · FastAPI · Supabase · PySpark
+
+---
+
+## Projects
+
+**SmartVision AI** — Real-time object detection (10 classes) + MiDaS depth estimation + Llama 3 chatbot  
+**Student Performance ML Pipeline** — End-to-end ML pipeline from data ingestion to Flask deployment  
+**Energy Forecasting Pipeline** — Time series forecasting with Prophet + LSTM + MLflow *(in progress)*  
+
+---
+
+## Currently Learning
+
+- HuggingFace Agents Course
+- DSA on algomap.io
+
+---
+
+## Contact
+
+[LinkedIn](https://linkedin.com/in/yuyutsu-lamsal-6250472b3) · lamsal.yuytsu38@gmail.com
