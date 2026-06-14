@@ -29,4 +29,4 @@ smolagents · HuggingFace · Django · FastAPI · Supabase · PySpark
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/yuyutsu-lamsal-6250472b3) · lamsal.yuytsu38@gmail.com
+[LinkedIn](https://linkedin.com/in/yuyutsu-lamsal-6250472b3) · lamsal.yuyutsu38@gmail.com
