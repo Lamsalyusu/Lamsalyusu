@@ -14,9 +14,9 @@ smolagents · HuggingFace · Django · FastAPI · Supabase · PySpark
 
 ## Projects
 
-**SmartVision AI** — Real-time object detection (10 classes) + MiDaS depth estimation + Llama 3 chatbot  
-**Student Performance ML Pipeline** — End-to-end ML pipeline from data ingestion to Flask deployment  
-**Energy Forecasting Pipeline** — Time series forecasting with Prophet + LSTM + MLflow *(in progress)*  
+**SmartVision AI** - Real-time object detection (10 classes) + MiDaS depth estimation + Llama 3 chatbot  
+**Student Performance ML Pipeline** - End-to-end ML pipeline from data ingestion to Flask deployment  
+**Energy Forecasting Pipeline** - Time series forecasting with Prophet + LSTM + MLflow   
 
 ---
 
