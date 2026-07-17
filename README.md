@@ -1,14 +1,14 @@
 # Yuyutsu Lamsal
 
-AI/ML Enthusiast | Computer Vision · LLMs · Agentic AI  
+AI/ML Enthusiast | Computer Vision · LLMs · RAG
 Final-year CS @ Herald College Kathmandu (University of Wolverhampton)
 
 ---
 
 ## Tech Stack
 
-Python · TensorFlow · PyTorch · Scikit-learn · LlamaIndex  
-smolagents · HuggingFace · Django · FastAPI · Supabase · PySpark
+Python · JavaScript · TensorFlow · PyTorch · Scikit-learn · NodeJS  
+· Django · FastAPI 
 
 ---
 
@@ -17,13 +17,6 @@ smolagents · HuggingFace · Django · FastAPI · Supabase · PySpark
 **SmartVision AI** - Real-time object detection (10 classes) + MiDaS depth estimation + Llama 3 chatbot  
 **Student Performance ML Pipeline** - End-to-end ML pipeline from data ingestion to Flask deployment  
 **Energy Forecasting Pipeline** - Time series forecasting with Prophet + LSTM + MLflow   
-
----
-
-## Currently Learning
-
-- HuggingFace Agents Course
-- DSA on algomap.io
 
 ---
 
