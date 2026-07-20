@@ -1,6 +1,7 @@
 # Yuyutsu Lamsal
 
 AI/ML Enthusiast | Computer Vision · LLMs · RAG
+---
 Final-year CS @ Herald College Kathmandu (University of Wolverhampton)
 
 ---
