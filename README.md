@@ -1,15 +1,15 @@
 # Yuyutsu Lamsal
 
-AI/ML Enthusiast | Computer Vision · LLMs · RAG
+AI/ML Enthusiast |· Machine Learning  · LLMs · RAG
 ---
-Final-year CS @ Herald College Kathmandu (University of Wolverhampton)
+ CS Student @ Herald College Kathmandu (University of Wolverhampton)
 
 ---
 
 ## Tech Stack
 
-Python · JavaScript · TensorFlow · PyTorch · Scikit-learn · NodeJS  
-· Django · FastAPI 
+Python · JavaScript · TypeScript · PyTorch · Scikit-learn · NodeJS  
+· Django 
 
 ---
 
