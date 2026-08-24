@@ -9,7 +9,7 @@ AI/ML Enthusiast |· Machine Learning  · LLMs · RAG
 ## Tech Stack
 
 Python · JavaScript · TypeScript · PyTorch · Scikit-learn · NodeJS  
-· Django 
+· Django · Database
 
 ---
 
