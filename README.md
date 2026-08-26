@@ -1,6 +1,6 @@
 # Yuyutsu Lamsal
 
-AI/ML Enthusiast |· Machine Learning  · LLMs · RAG
+AI/ML Enthusiast | · Backend Development · Machine Learning  · LLMs · RAG
 ---
  CS Student @ Herald College Kathmandu (University of Wolverhampton)
 
