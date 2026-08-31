@@ -17,9 +17,14 @@ Python · JavaScript · TypeScript · PyTorch · Scikit-Learn · NodeJS
 
 ## Projects
 
-**SmartVision AI** - Real-time object detection (10 classes) + MiDaS depth estimation + Llama 3 chatbot  
-**Student Performance ML Pipeline** - End-to-end ML pipeline from data ingestion to Flask deployment  
+**SmartVision AI** - Real-time object detection (10 classes) + MiDaS depth estimation + Llama 3 chatbot
+Link: https://github.com/Lamsalyusu/object_detection_system
+
+**Student Performance ML Pipeline** - End-to-end ML pipeline from data ingestion to Flask deployment
+Link: https://github.com/Lamsalyusu/student-performance-ml-pipeline
+
 **Energy Forecasting Pipeline** - Time series forecasting with Prophet + LSTM + MLflow   
+Link: https://github.com/Lamsalyusu/time-series-energy-forecasting
 
 ---
 Experience
