@@ -22,6 +22,9 @@ Python · JavaScript · TypeScript · PyTorch · Scikit-Learn · NodeJS
 **Energy Forecasting Pipeline** - Time series forecasting with Prophet + LSTM + MLflow   
 
 ---
+Experience
+---
+Currently working as a Backend Development Intern 
 
 ## Contact
 
