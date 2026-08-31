@@ -2,13 +2,14 @@
 
 AI/ML Enthusiast | · Backend Development · Machine Learning  · LLMs · RAG
 ---
- CS Student @ Herald College Kathmandu (University of Wolverhampton)
+ Computer Science (CS) Student 
+ Herald College Kathmandu (University of Wolverhampton)
 
 ---
 
 ## Tech Stack
 
-Python · JavaScript · TypeScript · PyTorch · Scikit-learn · NodeJS  
+Python · JavaScript · TypeScript · PyTorch · Scikit-Learn · NodeJS  
 · Django · Database
 
 ---
