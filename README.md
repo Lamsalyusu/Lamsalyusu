@@ -2,7 +2,8 @@
 
 AI/ML Enthusiast | · Backend Development · Machine Learning  · LLMs · RAG
 ---
- Computer Science (CS) Student 
+ Computer Science (CS) Student
+---
  Herald College Kathmandu (University of Wolverhampton)
 
 ---
