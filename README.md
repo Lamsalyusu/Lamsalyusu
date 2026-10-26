@@ -18,7 +18,7 @@ Python · JavaScript · TypeScript · PyTorch · Scikit-Learn · NodeJS
 ## Projects
 
 **SmartVision AI** - Real-time object detection (10 classes) + MiDaS depth estimation + Llama 3 chatbot
-Link: https://github.com/Lamsalyusu/object_detection_system
+Link: https://github.com/Lamsalyusu/smart-vision-ai
 
 **Student Performance ML Pipeline** - End-to-end ML pipeline from data ingestion to Flask deployment
 Link: https://github.com/Lamsalyusu/student-performance-ml-pipeline
