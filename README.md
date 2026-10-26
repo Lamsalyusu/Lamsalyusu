@@ -29,7 +29,7 @@ Link: https://github.com/Lamsalyusu/time-series-energy-forecasting
 ---
 Experience
 ---
-Currently working as a Backend Development Intern 
+Worked as a Backend Development Intern at Swift Technology
 
 ## Contact
 
